@@ -8,20 +8,12 @@
         "source": "com.example.fast_app_base.app-main-32:/drawable-night-xxhdpi/android12splash.png"
     },
     {
-        "merged": "/Users/byul/.gradle/daemon/7.5/com.example.fast_app_base.app-merged_res-38:/drawable-v21_background.png.flat",
-        "source": "/Users/byul/.gradle/daemon/7.5/com.example.fast_app_base.app-main-32:/drawable-v21/background.png"
-    },
-    {
         "merged": "com.example.fast_app_base.app-merged_res-38:/drawable-xxxhdpi_android12splash.png.flat",
         "source": "com.example.fast_app_base.app-main-32:/drawable-xxxhdpi/android12splash.png"
     },
     {
-        "merged": "/Users/byul/.gradle/daemon/7.5/com.example.fast_app_base.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/Users/byul/.gradle/daemon/7.5/com.example.fast_app_base.app-main-32:/mipmap-xxxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/byul/.gradle/daemon/7.5/com.example.fast_app_base.app-merged_res-38:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/Users/byul/.gradle/daemon/7.5/com.example.fast_app_base.app-main-32:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "com.example.fast_app_base.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.fast_app_base.app-main-32:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
         "merged": "com.example.fast_app_base.app-merged_res-38:/drawable-xhdpi_android12splash.png.flat",
@@ -48,6 +40,10 @@
         "source": "com.example.fast_app_base.app-main-32:/drawable-hdpi/android12splash.png"
     },
     {
+        "merged": "com.example.fast_app_base.app-merged_res-38:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.fast_app_base.app-main-32:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "com.example.fast_app_base.app-merged_res-38:/drawable-v21_background.png.flat",
         "source": "com.example.fast_app_base.app-main-32:/drawable-v21/background.png"
     },
@@ -64,10 +60,6 @@
         "source": "com.example.fast_app_base.app-main-32:/drawable-v21/launch_background.xml"
     },
     {
-        "merged": "/Users/byul/.gradle/daemon/7.5/com.example.fast_app_base.app-merged_res-38:/drawable-v21_launch_background.xml.flat",
-        "source": "/Users/byul/.gradle/daemon/7.5/com.example.fast_app_base.app-main-32:/drawable-v21/launch_background.xml"
-    },
-    {
         "merged": "com.example.fast_app_base.app-merged_res-38:/drawable-xxhdpi_splash.png.flat",
         "source": "com.example.fast_app_base.app-main-32:/drawable-xxhdpi/splash.png"
     },
@@ -76,11 +68,11 @@
         "source": "com.example.fast_app_base.app-main-32:/drawable-xxxhdpi/splash.png"
     },
     {
-        "merged": "com.example.fast_app_base.app-merged_res-38:/drawable-night-xhdpi_android12splash.png.flat",
-        "source": "com.example.fast_app_base.app-main-32:/drawable-night-xhdpi/android12splash.png"
-    },
-    {
         "merged": "com.example.fast_app_base.app-merged_res-38:/drawable-hdpi_splash.png.flat",
         "source": "com.example.fast_app_base.app-main-32:/drawable-hdpi/splash.png"
+    },
+    {
+        "merged": "com.example.fast_app_base.app-merged_res-38:/drawable-night-xhdpi_android12splash.png.flat",
+        "source": "com.example.fast_app_base.app-main-32:/drawable-night-xhdpi/android12splash.png"
     }
 ]
