@@ -36,6 +36,8 @@ class MainScreenState extends State<MainScreen>
 
   static double get bottomNavigationBarBorderRadius => 30.0;
 
+  static const double bottomNavigatorHeight = 50;
+
   @override
   FutureOr<void> afterFirstLayout(BuildContext context) {
     // 로그인 작업 등 초기 리소스 작업으로 인해 delay 줌.
