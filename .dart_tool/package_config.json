@@ -794,6 +794,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "timeago",
+      "rootUri": "file:///Users/byul/.pub-cache/hosted/pub.dev/timeago-3.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "timing",
       "rootUri": "file:///Users/byul/.pub-cache/hosted/pub.dev/timing-1.0.1",
       "packageUri": "lib/",
@@ -920,7 +926,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2023-08-24T15:09:14.998721Z",
+  "generated": "2023-08-25T09:24:20.838453Z",
   "generator": "pub",
   "generatorVersion": "3.0.5"
 }

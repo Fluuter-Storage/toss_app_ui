@@ -10,11 +10,11 @@
 		</data>
 		<key>flutter_assets/AssetManifest.bin</key>
 		<data>
-		xpz7j1/wtYBQHvs4bPrGx38v1No=
+		FP8+hCVVQLBl0Yb0Gq1P7Nsmz28=
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		cUWTi9XSNmqURtRStZfKnckPyKo=
+		6/1AZ9YhOnkcSM/rGJ9fa12wIrk=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -115,6 +115,30 @@
 		<key>flutter_assets/assets/image/illustration/credit_score.png</key>
 		<data>
 		sTHBaMzcBxknxs9CS8m7DgkIzss=
+		</data>
+		<key>flutter_assets/assets/image/notification/notification_idea.png</key>
+		<data>
+		COjiZlpTsxYgs7n+r9Vf+AHX1dI=
+		</data>
+		<key>flutter_assets/assets/image/notification/notification_luck.png</key>
+		<data>
+		64AwFIB6nuhAUiANcg/ZfBDPP4Q=
+		</data>
+		<key>flutter_assets/assets/image/notification/notification_people.png</key>
+		<data>
+		tQAni55kD050cJGYC5QuA3hmlYA=
+		</data>
+		<key>flutter_assets/assets/image/notification/notification_stock.png</key>
+		<data>
+		mqCxW5x6nRN4VbOHhW1tajau1kI=
+		</data>
+		<key>flutter_assets/assets/image/notification/notification_toss.png</key>
+		<data>
+		BEc5JkbNXI3p7ZP2WSeU1oIqZh0=
+		</data>
+		<key>flutter_assets/assets/image/notification/notification_walk.png</key>
+		<data>
+		5y2LwjZHompjZzIR92ne9c/klVE=
 		</data>
 		<key>flutter_assets/assets/image/small_arrow_right.svg</key>
 		<data>
@@ -238,7 +262,7 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		vUjVS4TntKKi3yO8Jq/9J8d2T6I=
+		xBVnMK4hPbXze5fnRQPTynukp0M=
 		</data>
 		<key>flutter_assets/packages/easy_localization/i18n/ar-DZ.json</key>
 		<data>
@@ -275,14 +299,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jMZlHza6/+e/tkGx9AydNcICo6JgBWTNrOiYeTuZBlU=
+			y8wA7mHrbmV/X7xSe3SrSbXf4gju/rYMuq9EFQN62D8=
 			</data>
 		</dict>
 		<key>flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mkH2lzm3BRuFo/nbl6dR52R44aHNIscBBbN8W+8Mg5Q=
+			1O+vfXDRDc8MFbuzfKQD44/ohIGGUUiHcsmTrc7d5xM=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -444,6 +468,48 @@
 			<key>hash2</key>
 			<data>
 			x0RXurEFz/+7Plecv/smS0ratjPGasTbiciZ/Xw7Zos=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/image/notification/notification_idea.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+5JfuD92aQ21qSoH1PZWmctnohbcL4/2TwvpFbUJ4Pw=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/image/notification/notification_luck.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aJU9pRphBgx8Xh2rLK0YTUce7DZOlExX/CUaoqNb8Rw=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/image/notification/notification_people.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			p+SBmdDuRKZ7v6L1yq9qVuNSiew5XF7lxQO86NvOmxM=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/image/notification/notification_stock.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uNrWhujMUDL6ZnPf4MT77fhWewZuX29JB9F9HE1DRZM=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/image/notification/notification_toss.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			E0s+p9YrsiJz3+WfhtMqMpH1/3vmc//n7E5Ti525E8g=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/image/notification/notification_walk.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Y01JI9BcajIrCcoPlbmWd6I+M9TuUrx66TC2H5MsXSw=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/image/small_arrow_right.svg</key>
@@ -660,7 +726,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AzBFAipPhUpK+aBe0TPRAQIFUAT/3UiF63bE+sALCzg=
+			7Yl0u/MbugqOmkIoUDlImVJioKJ17JQ8Jt2hMrCTn6k=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/easy_localization/i18n/ar-DZ.json</key>
