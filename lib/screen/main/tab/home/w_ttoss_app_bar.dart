@@ -17,7 +17,7 @@ class _TtossAppBarState extends State<TtossAppBar> {
   Widget build(BuildContext context) {
     return Container(
       height: TtossAppBar.appBarHeight,
-      color: context.appColors.appBarBackGround,
+      color: context.appColors.appBarBackground,
       child: Row(
         children: [
           width10,
